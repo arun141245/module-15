@@ -1,4 +1,4 @@
-# Ex. No: 15B - Build a Binary Search Tree Using Built-in Function 
+# Ex. No: 15- Build a Binary Search Tree Using Built-in Function 
 
 ## Aim
 To write a Python program to build a Binary Search Tree (BST) using a built-in function.
